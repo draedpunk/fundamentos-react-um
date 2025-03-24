@@ -14,7 +14,7 @@ export function App() {
 
         <main>
         <Post 
-        author="Pamela Rodrigues" 
+        author="Sir Jorah Mormont" 
         content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae delectus praesentium aliquid culpa soluta, " />
        <Post 
         author="Daenerys Targaryen" 
